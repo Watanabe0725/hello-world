@@ -1,2 +1,2 @@
 # hello-world
-このリポジトリは GitHub Flow を実行するためのリポジトリです
+2026/7/1 github演習
